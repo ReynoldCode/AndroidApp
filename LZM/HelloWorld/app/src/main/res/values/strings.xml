@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Test1</string>
+
+    <string name="hello_world">This is my first Android App!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sex">性别：</string>
+    <string name="age">年龄</string>
+    <string name="btnOK">确定</string>
+    <string name="result">建议</string>
+    <string name="edt_sex_hint">输入性别</string>
+    <string name="edt_age_hint">输入年龄</string>
+    <string name="sug_not_hurry">还不急。</string>
+    <string name="sug_get_married">赶快结婚！</string>
+    <string name="sug_find_couple">开始找对象。</string>
+    <string name="sex_male">男</string>
+</resources>
